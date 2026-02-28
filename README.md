@@ -86,7 +86,7 @@ This Privacy Policy may be updated from time to time. The updated version will b
 
 If you want to contact the developer about privacy questions, you can open an issue here:
 
-- GitHub Issues: https://github.com/waygoer/waygoer-macOS/issues
+- GitHub Issues: [https://github.com/waygoer/waygoer-privacy-policy/issues]
 
 **Important:** GitHub Issues are public on public repositories.  
 Please **do not** include sensitive personal information in an issue (for example names, addresses, private itinerary details, tickets, booking references, or any other data you would not want to be publicly visible).
